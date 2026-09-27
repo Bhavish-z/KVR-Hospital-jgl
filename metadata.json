@@ -1,0 +1,6 @@
+{
+  "name": "KVR Hospital Orthopedics & Maternity",
+  "description": "KVR Hospital in Jagtial provides trusted orthopedic treatment, maternity care, and 24/7 medical services with experienced doctors and compassionate staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
